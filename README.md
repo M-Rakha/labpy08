@@ -93,7 +93,9 @@ Selanjutnya, kondisi ketiga masukan/tambah lagi daftar mahasiswa sebanyak 3 data
 - Gender : P
 - Nilai : 98
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/cc5522a9aeb3d8b7b0e319718649b4a577b5e478/Cuplikan%20layar%202024-12-09%20193119.png)
 
+Jika sudah maka tampilan pada tabel akan seperti berikut :
 
 
 
