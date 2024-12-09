@@ -65,7 +65,17 @@ Kondisi kedua selanjutnya mencoba menambahkan data mahasiswa pada tabel, dengan 
 - Gender : L
 - Nilai : 90
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/553aca6e2bc3d225d6c91a8b45504faceaefdc62/Cuplikan%20layar%202024-12-09%20191634.png)
 
+## Case 3 :
+
+Selanjutnya, kondisi ketiga masukan/tambah lagi daftar mahasiswa sebanyak 3 data untuk memperbanyak data yang ditampilkan, setelah itu pilih 2 kembali untuk melihat data yang sudah ditambahkan, berikut data yang harus di tambahkan :
+
+1. Data pertama :
+- Nama : Raihan Ardiansyah
+- Nim : 312410396
+- Gender : L
+- Nilai : 92
 
 
 
