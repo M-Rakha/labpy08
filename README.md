@@ -42,6 +42,8 @@ Bagian ini adalah titik awal program. Program berjalan dalam loop yang menawarka
 4. Ubah data (opsi 4)
 5. Keluar dari program (opsi 5)
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/3f6651744b4f2237cb0f67e4fc77213f5ed4fc19/Cuplikan%20layar%202024-12-09%20190828.png)
+
 
 
 
