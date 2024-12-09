@@ -129,7 +129,9 @@ Maka data telah dihapus dari tabel data :
 
 Jika semua data atau program input sudah selesai semua, user dapat menginputkan 5 untuk keluar dari progam :
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/dc294288eac1635d512a13dfa7b3162c38b8ef8f/Cuplikan%20layar%202024-12-09%20194937.png)
 
+# FLOWCHART DAFTAR NILAI
 
 
 
