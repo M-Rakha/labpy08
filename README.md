@@ -123,6 +123,12 @@ Kondisi keenam, kita mencoba menghapus sebuah data mahasiswa dengan menginputkan
 
 Maka data telah dihapus dari tabel data :
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/5704346a1633846011524fcccc228c000cbc6b9b/Cuplikan%20layar%202024-12-09%20194629.png)
+
+## Case 6 :
+
+Jika semua data atau program input sudah selesai semua, user dapat menginputkan 5 untuk keluar dari progam :
+
 
 
 
