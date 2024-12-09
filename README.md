@@ -77,7 +77,13 @@ Selanjutnya, kondisi ketiga masukan/tambah lagi daftar mahasiswa sebanyak 3 data
 - Gender : L
 - Nilai : 92
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/81ccc4a52d7a36363c7cd01ee732ec6f1db92901/Cuplikan%20layar%202024-12-09%20192057.png)
 
+2. Data kedua :
+- Nama : M. Nikmal Wahid
+- Nim : 312410372
+- Gender : L
+- Nilai : 95
 
 
 
