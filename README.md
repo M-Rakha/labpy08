@@ -44,6 +44,22 @@ Bagian ini adalah titik awal program. Program berjalan dalam loop yang menawarka
 
 ![gambar](https://github.com/M-Rakha/labpy08/blob/3f6651744b4f2237cb0f67e4fc77213f5ed4fc19/Cuplikan%20layar%202024-12-09%20190828.png)
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/76e694277aecd1cc7786e6b9eef26e82300b89c9/Cuplikan%20layar%202024-12-09%20190912.png)
+
+## Step 7 : Run Program
+
+Tahap akhir adalah uji coba code program yang sudah dibuat dengan mencoba berbagai kemungkinan yang ada.
+
+## Case 1 :
+
+Kondisi pertama kita akan coba melihat tabel dengan inputkan 2 tampa menambahkan data/masih kosong, maka akan ditampilkan isi tabel masih belum ada datanya, akan ditampilkan 'Tidak ada Data Mahasiswa' :
+
+
+
+
+
+
+
 
 
 
