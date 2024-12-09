@@ -85,6 +85,19 @@ Selanjutnya, kondisi ketiga masukan/tambah lagi daftar mahasiswa sebanyak 3 data
 - Gender : L
 - Nilai : 95
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/9c9ff10f7f132397ed9637c7ec6c4c3bc6f1e904/Cuplikan%20layar%202024-12-09%20192625.png)
+
+3. Data ketiga :
+- Nama : Yarni Gea
+- Nim : 312410413
+- Gender : P
+- Nilai : 98
+
+
+
+
+
+
 
 
 
