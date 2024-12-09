@@ -30,5 +30,18 @@ Selanjutnya ada method menghapus data mahasiswa dengan cara kerja program mencar
 
 Method ini sama seperti sebelumnya jika di lihat dari cara kerjanya namun di fungsi kali ini program akan mengubah suatu nama dari daftar, Jika nama ditemukan, data seperti NIM, gender, dan nilai akan diperbarui. Jika tidak, akan menampilkan pesan bahwa data tidak ditemukan :
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/6086af0bac87a45f36a5f1a935e6b1afd7c7b142/Cuplikan%20layar%202024-12-09%20190540.png)
+
+## Step 6 : Fungsi main dan Menu interaktif
+
+Bagian ini adalah titik awal program. Program berjalan dalam loop yang menawarkan menu interaktif kepada pengguna untuk memilih salah satu opsi, Setiap pilihan menjalankan metode yang sesuai dari kelas DaftarNilaiMahasiswa. Jika pilihan tidak valid, program akan meminta pengguna mencoba lagi :
+
+1. Tambah data (opsi 1)
+2. Tampilkan data (opsi 2)
+3. Hapus data (opsi 3)
+4. Ubah data (opsi 4)
+5. Keluar dari program (opsi 5)
+
+
 
 
