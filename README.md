@@ -24,7 +24,11 @@ Method atau Fungsi ini mencetak daftar mahasiswa yang sudah tersimpan. Jika daft
 
 Selanjutnya ada method menghapus data mahasiswa dengan cara kerja program mencari sebuah nama yang telah diinputkan, jika nama ditemukan maka program akan langsung menghapus nama tersebut dari daftar, namun jika tidak ditemukan program akan memberi tahu kalau tidak ada daftar yang ditemukan :
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/6e96b588344512a69ff23f890446b2f0815018f7/Cuplikan%20layar%202024-12-09%20190349.png)
 
+## Step 5 : Method ubah
+
+Method ini sama seperti sebelumnya jika di lihat dari cara kerjanya namun di fungsi kali ini program akan mengubah suatu nama dari daftar, Jika nama ditemukan, data seperti NIM, gender, dan nilai akan diperbarui. Jika tidak, akan menampilkan pesan bahwa data tidak ditemukan :
 
 
 
