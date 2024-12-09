@@ -113,5 +113,15 @@ Data yang diubah :
 
 Maka Tampilan nya akan seperti berikut ini :
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/431ff3968f36d05ac7438dd99135084642f44fe4/Cuplikan%20layar%202024-12-09%20193933.png)
+
+## Case 5 :
+
+Kondisi keenam, kita mencoba menghapus sebuah data mahasiswa dengan menginputkan 3 untuk menghapuskan data mahasiswa lalu user diminta memasukan nama mahasiswa yang akan dihapus :
+
+
+
+
+
 
 
