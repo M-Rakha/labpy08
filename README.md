@@ -109,7 +109,9 @@ Data yang diubah :
 - Gender : L
 - Nilai : 93
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/232bb648f2077646dc8a215c440bade77a6da084/Cuplikan%20layar%202024-12-09%20193720.png)
 
+Maka Tampilan nya akan seperti berikut ini :
 
 
 
