@@ -119,7 +119,9 @@ Maka Tampilan nya akan seperti berikut ini :
 
 Kondisi keenam, kita mencoba menghapus sebuah data mahasiswa dengan menginputkan 3 untuk menghapuskan data mahasiswa lalu user diminta memasukan nama mahasiswa yang akan dihapus :
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/c0b430af97568a5d8674170c351f60ef661fd0ec/Cuplikan%20layar%202024-12-09%20194613.png)
 
+Maka data telah dihapus dari tabel data :
 
 
 
