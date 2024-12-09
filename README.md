@@ -172,4 +172,17 @@ Lalu User akan diarahkan kembali ke inisialiasi menu.
 
 ![gambar](https://github.com/M-Rakha/labpy08/blob/511790981f252df05f7a4aa81416b9860ffe1015/20.png)
 
+Pada gambar menampilkan sebuah class dari code program daftarnilaimahasiswa, dengan adanya diagram class ini kita mampu melihat mana saja diagram class atau tipe class yang terdapat pada code program ini :
+
+- init()
+- tambah(nama: str, nim: int, gender: str, nilai: int)
+- tampilkan()
+- hapus(nama: str)
+- ubah(nama: str, nim: int, gender: str, nilai: int)
+- menu_interaktif()
+
+# KESIMPULAN
+
+Dengan membuat code program daftar nilai ini saya pribadi dapat mengambil pelajaran, Program ini memiliki fungsi utama, yaitu menambahkan data mahasiswa, menampilkan data yang telah tersimpan, menghapus data berdasarkan nama, serta mengubah data yang ada. Semua fungsi tersebut diimplementasikan melalui metode dalam kelas bernama DaftarNilaiMahasiswa. Data mahasiswa disimpan dalam bentuk list yang berisi dictionary. Program ini juga menyediakan menu interaktif yang memungkinkan pengguna memilih operasi seperti tambah, tampilkan, hapus, ubah, atau keluar dari program. Dengan pendekatan ini, pengelolaan data mahasiswa menjadi lebih terstruktur, fleksibel, dan mudah digunakan.
+
 
