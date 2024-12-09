@@ -97,7 +97,17 @@ Selanjutnya, kondisi ketiga masukan/tambah lagi daftar mahasiswa sebanyak 3 data
 
 Jika sudah maka tampilan pada tabel akan seperti berikut :
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/8fbc2af7961af0ec0ae1bf6de62af233672d5dd2/Cuplikan%20layar%202024-12-09%20193315.png)
 
+## Case 4 :
+
+Masuk kondisi keempat kita akan coba mengubah data, ada data yang salah diinputkan pada Nilai Mahasiswa 92 diubah menjadi 93, sebelum itu inputkan 4 untuk mengubah lalu user diminta untuk memasukan nama mahasiswa, nim, gender, dan Nilai beru, kita coba memasukan data berikut :
+
+Data yang diubah :
+- Nama : Raihan Ardiansyah
+- Nim : 312410396
+- Gender : L
+- Nilai : 93
 
 
 
