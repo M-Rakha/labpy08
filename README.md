@@ -170,6 +170,6 @@ Lalu User akan diarahkan kembali ke inisialiasi menu.
 
 # DIAGRAM CLASS
 
-
+![gambar](https://github.com/M-Rakha/labpy08/blob/511790981f252df05f7a4aa81416b9860ffe1015/20.png)
 
 
