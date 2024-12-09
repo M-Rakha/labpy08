@@ -12,6 +12,12 @@ Selain itu, Method init adalah konstruktor yang dijalankan saat objek kelas dibu
 
 Metode ini digunakan untuk menambahkan data mahasiswa baru ke dalam list data_mahasiswa. Data disimpan sebagai dictionary dengan kunci seperti nama, nim, L/P?, dan nilai :
 
+![gambar](https://github.com/M-Rakha/labpy08/blob/053c6aea8191e0ac95c3353c0043ccda3c468677/Cuplikan%20layar%202024-12-09%20185634.png)
+
+## Step 3 : Method tampilkan
+
+Method atau Fungsi ini mencetak daftar mahasiswa yang sudah tersimpan. Jika daftar kosong, akan menampilkan pesan "Tidak ada data mahasiswa". Jika tidak kosong, data ditampilkan dalam bentuk tabel dengan nomor urut, nama, NIM, gender, dan nilai :
+
 
 
 
